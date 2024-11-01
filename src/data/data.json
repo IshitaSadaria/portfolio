@@ -1,0 +1,313 @@
+{
+  "header": {
+    "name": "Ishita Sadaria",
+    "role": "Digital Specialist Engineer - Infosys",
+    "overallExperience": {
+      "startDate": "Jul 21, 2022",
+      "replacer": "{{experience}}"
+    },
+    "bio": "Web developer with 2.3 years of experience specializing in Angular, HTML, CSS, TypeScript, JavaScript, React and GenAI. Proficient in delivering efficient, high-quality solutions with a focus on modularity and scalability. Known for performance excellence and innovation, with  a commitment to creating impactful user experiences.",
+    "isBioVisible": true,
+    "contact": [
+      {
+        "type": "email",
+        "value": "ishitasadaria84308@gmail.com",
+        "isHidden": false,
+        "icon": "email"
+      },
+      {
+        "type": "phone",
+        "value": "",
+        "isHidden": true,
+        "icon": "phone"
+      },
+      {
+        "type": "address",
+        "value": "Pune, Maharashtra",
+        "isHidden": false,
+        "icon": "address"
+      }
+    ],
+    "links": [
+      {
+        "type": "GitHub",
+        "value": "https://github.com/IshitaSadaria",
+        "isHidden": false,
+        "icon": "github"
+      },
+      {
+        "type": "LinkedIn",
+        "value": "https://www.linkedin.com/in/ishita-sadaria/",
+        "isHidden": false,
+        "icon": "linkedin"
+      },
+      {},
+      {
+        "type": "Instagram - @design_with_code",
+        "value": "https://www.instagram.com/design_with_code?utm_source=qr&igsh=MXhpamY4NnY4amYweg==",
+        "isHidden": false,
+        "icon": "instagram"
+      },
+      {
+        "type": "Medium",
+        "value": "",
+        "isHidden": true,
+        "icon": "medium"
+      },
+      {
+        "type": "Twitter",
+        "value": "",
+        "isHidden": true,
+        "icon": "twitter"
+      }
+    ],
+    "image": {
+      "imageName": "profile.jpg",
+      "showImage": true
+    },
+    "badges": {
+      "isHidden": true,
+      "badges": [
+        { "badgeName": "IBM", "link": "", "icon": "", "isHidden": false },
+        { "badgeName": "Google", "link": "", "icon": "", "isHidden": false }
+      ]
+    }
+  },
+  "experience": [
+    {
+      "company": "Infosys Ltd",
+      "duration": {
+        "from": "21 Jul, 2022",
+        "to": "present"
+      },
+      "location": "Pune, Maharashtra",
+      "work": [
+        {
+          "role": "Digital Specialist Engineer",
+          "duration": {
+            "from": "21 Jul, 2022",
+            "to": "present"
+          },
+          "projects": [
+            {
+              "name": "Citizens Bank - CLAAS Project",
+              "technologies": [
+                "Angular",
+                "TypeScript",
+                "Material UI",
+                "Git",
+                "JIRA",
+                "Jenkins",
+                "SonarQube",
+                "BitBucket"
+              ],
+              "responsibilities": [
+                "Designed, developed, and debugged a banking portal within an agile env, ensuring an engagging and user-friendly web application.",
+                "Collaborated closely with the clients to transform design mockups into functional web compoents and managing code via bitbucket.",
+                "Ensured code quality and addressed complexities and security issues using SonarQube and Jenkins"
+              ]
+            },
+            {
+              "name": "Citizens Bank - OneClick-API Project",
+              "technologies": [
+                "Angular",
+                "TypeScript",
+                "Material UI",
+                "Git",
+                "JIRA",
+                "Jenkins",
+                "SonarQube",
+                "BitBucket"
+              ],
+              "responsibilities": [
+                "Built and optimized a user-friendly web application within an agile environment, focusing on seamless user engagement and functionality.",
+                "Ensured robust code quality by addressing complexities and security vulnerabilities through SonarQube and Jenkins.",
+                "Partnered with clients to translate design mockups into fully functional web components, utilizing Bitbucket for streamlined code management."
+              ]
+            },
+            {
+              "name": "Samikshan",
+              "technologies": [
+                "Angular",
+                "TypeScript",
+                "Material UI",
+                "AWS",
+                "Git"
+              ],
+              "responsibilities": [
+                "Played a pivotal role in designing, developing and debugging web application, delivering an engaging user-friendly interfaces",
+                "Deployed the code architecture to AWS cloud platform for seamless and efficient workflow"
+              ]
+            }
+          ],
+          "description": [
+            "Developed scalable, modular code following best practices, leading to reduction in build time through optimized code performance.  ",
+            "Consistently implemented performance tuning techniques, resulting in faster application load times and improved user experience across all supported platforms.",
+            "Demonstrated the expertise in providing AI based solutions and overall application design to larger audience in the internal events "
+          ],
+          "showDescription": true
+        }
+      ]
+    }
+  ],
+  "recognition": [
+    {
+      "name": "Insta Awards",
+      "desc": "Certificate of Appreciation from the senior management team (2 Awards)",
+      "link": "https://github.com/IshitaSadaria/Achievements/blob/master/insta%20awards.pdf"
+    },
+    {
+      "name": "Award for AI Enthusiasts Event - AI Tribes",
+      "desc": "Actively demonstrated Gen-AI abilities to large audience of learners and participants ",
+      "link": "https://github.com/IshitaSadaria/Achievements/blob/master/ishita.sadaria%40infosys.com-AITribes.pdf"
+    }
+  ],
+  "education": [
+    {
+      "type": "Graduation",
+      "degree": "B.Tech (Information Technology)",
+      "school": "Walchand Institute of Technology, Solapur",
+      "score": "80.79% (Hons.)",
+      "isHidden": false,
+      "duration": {
+        "from": "July, 2018",
+        "to": "June, 2022"
+      },
+      "isGraduation": true
+    },
+    {
+      "type": "Senior Secondary",
+      "degree": "",
+      "school": "Walchand college of Arts and Science, Solapur",
+      "score": "78.6%",
+      "isHidden": true,
+      "duration": {
+        "from": "Jun, 2016",
+        "to": "May, 2018"
+      },
+      "isGraduation": false
+    },
+    {
+      "type": "Secondary",
+      "degree": "",
+      "school": "Indian Model School, Solapur",
+      "score": "87.43%",
+      "isHidden": true,
+      "duration": {
+        "from": "",
+        "to": "Mar, 2016"
+      },
+      "isGraduation": false
+    }
+  ],
+  "projects": [
+    {
+      "name": "Stack Overflow Clone",
+      "technologies": ["Angular", "HTML", "CSS", "TypeScript"],
+      "desc": "Developed a Stack Overflow clone enabling users to post questions and receive answers or feedback from the community. The project fosters knowledge sharing and collaboration by replicating a familiar Q&A platform.",
+
+      "isHidden": false
+    },
+    {
+      "name": "MyStore - E-commerce website",
+      "technologies": ["React", "CSS3", "HTML5", "GenAI"],
+      "desc": "Created an AI-powered e-commerce website, showcasing how generative AI can streamline daily coding tasks and enhance development speed. ",
+      "isHidden": false
+    },
+    {
+      "name": "Libraries",
+      "technologies": ["JavaScript", "React", "Chalk", "Boxen"],
+      "desc": "Published libraries on NPM",
+      "link": "",
+      "isHidden": true
+    },
+    {
+      "name": "AmIshi - Portfolio",
+      "technologies": ["Angular", "ThreeJS", "TypeScript", "CSS3", "HTML5"],
+      "desc": "Built a personal portfolio using generative AI, exploring advanced features like smooth navigation, responsive design, and interactive 3D animations.",
+      "link": "https://am-ishi.netlify.app/",
+      "isHidden": false
+    }
+  ],
+  "others": {
+    "achievements": [
+      "Won the most valuable coder for the project (Kraft Heinz)",
+      "Won Infosys awards for most valuable player",
+      "Participated and qualified to the finale round of Smart India Hackathon"
+    ],
+    "certificates": [
+      {
+        "name": "Business Communication Level 6"
+      },
+      {
+        "name": "Infosys Certified Front End Web Developer"
+      },
+      {
+        "name": "Infosys Certified Angular & React Web Developer"
+      },
+      {
+        "name": "Infosys Certified Generative AI Professional"
+      }
+    ],
+    "skills": [
+      {
+        "rating": 5,
+        "technologies": ["React", "JavaScript", "Angular", "CSS", "HTML"],
+        "info": "Excellent"
+      },
+      {
+        "rating": 4,
+        "technologies": ["Express", "Git", "version1", "ThreeJS", "TypeScript"],
+        "info": "Very Good"
+      },
+      {
+        "rating": 3,
+        "technologies": ["NodeJS", "MongoDB", "SQL", "Jenkins"],
+        "info": "Good"
+      }
+    ],
+    "softwares": [
+      "Figma",
+      "VSCode",
+      "Git",
+      "BitBucket",
+      "Jira",
+      "Framer",
+      "etc."
+    ],
+    "interests": [
+      "Badminton,",
+      "Sporadic Reading,",
+      {
+        "name": "Web Designing",
+        "link": "https://github.com/IshitaSadaria/Design-Passion/blob/master/Ishita%20Sadaria%20(Design%20Profile)%20-%201.pdf"
+      }
+    ],
+    "languages": [
+      { "language": "Hindi", "rating": 5, "info": "" },
+      { "language": "English", "rating": 4, "info": "" },
+      { "language": "Gujarati", "rating": 1, "info": "" },
+      { "language": "Marathi", "rating": 1, "info": "" }
+    ],
+    "showOnly": {
+      "achievements": false,
+      "certificates": true,
+      "skills": true,
+      "softwares": true,
+      "interests": true,
+      "languages": false
+    }
+  },
+  "footer": {
+    "info": "Created using ReactJS, Please visit: ",
+    "link": "",
+    "isHidden": false
+  },
+  "consent": {
+    "isHidden": true,
+    "content": {
+      "text": [],
+      "links": []
+    }
+  }
+}

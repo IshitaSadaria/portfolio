@@ -1,0 +1,59 @@
+.wrapper {
+  margin: 1rem auto;
+  border: 1px solid #444;
+  position: relative;
+}
+
+.wrapper.size-A4 {
+  width: 793.7007874px;
+  height: 1122.519685px;
+}
+
+.wrapper.height-auto {
+  height: auto;
+}
+
+._header {
+  /* background: var(--color-black); */
+  background: #000000;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #434343, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #434343, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+  color: var(--color-white, #fff);
+}
+
+.sections {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left-section {
+  flex: 3;
+}
+
+.left-section .section-heading {
+  font-size: 2rem;
+}
+  
+.right-section .section-heading {
+  font-size: 1.6rem;
+}
+
+.right-section {
+  flex: 2;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  background-color: var(--color-darkblue);
+  padding: 0.4rem 1rem;
+  color: var(--color-white);
+  font-size: 1rem;
+  width: 100%;
+  text-align: center;
+}
+
+.footer-link a:hover {
+  color: var(--color-red);
+}

@@ -1,0 +1,37 @@
+.recognition-wrapper {
+    padding: 1rem;
+    font-size: 1.2rem;
+  }
+  
+  .recognition-header-text {
+    color: var(--color-darkblue);
+    text-transform: uppercase;
+  }
+  
+  .recognition-wrapper .recognition {
+    margin: 0.5rem 0;
+  }
+  
+  .recognition-wrapper .recognition-name {
+    color: var(--color-red);
+    font-size: 1.6rem;
+    margin-top: 1rem;
+  }
+  
+  .recognition-wrapper .recognition-link {
+    font-size: 1.2rem;
+  }
+  
+  .recognition-link a {
+    color: var(--color-darkblue);
+  }
+  
+  .recognition-link a:hover {
+    color: var(--color-red);
+  }
+  
+  .recognition-description {
+    font-size: 1.2rem;
+    color: var(--color-darkblue);
+    padding-top: 0.3rem;
+  }

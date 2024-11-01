@@ -1,0 +1,17 @@
+.interests {
+  color: var(--color-red);
+  font-size: 1.2rem;
+}
+
+.interests span, .interests a {
+  margin-right: 5px;
+}
+
+.interests a {
+  text-decoration: none;
+  color: var(--color-red);
+}
+
+.interests a:hover {
+  color: var(--color-darkblue);
+}
