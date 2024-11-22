@@ -22,6 +22,12 @@
         "icon": "phone"
       },
       {
+        "type": "website",
+        "value": "Resume",
+        "isHidden": false,
+        "icon": "website"
+      },
+      {
         "type": "address",
         "value": "Pune, Maharashtra",
         "isHidden": false,
@@ -243,7 +249,7 @@
         "name": "Infosys Certified Front End Web Developer"
       },
       {
-        "name": "Infosys Certified Angular & React Web Developer"
+        "name": "Infosys Certified Angular & React Web Developer & MicroFrontend Essentials"
       },
       {
         "name": "Infosys Certified Generative AI Professional"
