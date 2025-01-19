@@ -5,7 +5,6 @@ import Experience from './components/Experience/Experience';
 import Education from './components/Education/Education';
 import Projects from './components/Projects/Projects';
 import Extra from './components/Extra/Extra';
-import Recognition from './components/Recognition/Recognition';
 
 import userData from './data/data.json';
 import './App.css';
@@ -13,7 +12,7 @@ import Consent from './components/Consent/Consent';
 
 const App = () => {
   const [state] = useState(userData);
-  const { header, experience, education, projects, others, consent, recognition } = state;
+  const { header, experience, education, projects, others, consent } = state;
 
   return (
     <div className="wrapper size-A4">
@@ -26,9 +25,6 @@ const App = () => {
           <div className="_experience">
             <Experience data={experience} />
           </div>
-          <div className="_recognition">
-            <Recognition data={recognition} />
-          </div> 
         </div>
         
         <div className="right-section">

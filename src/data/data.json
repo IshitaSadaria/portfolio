@@ -6,7 +6,7 @@
       "startDate": "Jul 21, 2022",
       "replacer": "{{experience}}"
     },
-    "bio": "Web developer with {{experience}} of experience specializing in Angular, HTML, CSS, TypeScript, JavaScript, React and GenAI. Proficient in delivering efficient, high-quality solutions with a focus on modularity and scalability. Known for performance excellence and innovation, with  a commitment to creating impactful user experiences.",
+    "bio": "Software Engineer with {{experience}} of experience specializing in React, Angular, HTML, CSS, TypeScript, JavaScript and GenAI. Proficient in delivering efficient, high-quality solutions with a focus on modularity and scalability. Known for performance excellence and innovation, with  a commitment to creating impactful user experiences.",
     "isBioVisible": true,
     "contact": [
       {
@@ -96,6 +96,21 @@
           },
           "projects": [
             {
+              "name": "Union Bank of Switzerland",
+              "technologies": [
+                "React",
+                "Custom UI Library",
+                "Bootstrap",
+                "GitLab",
+                "JIRA",
+                "SonarQube"
+              ],
+              "responsibilities": [
+                "Crafting the screens using custom client library also ensuring an engagging and user-friendly web application.",
+                "Ensured code quality and addressed cognitive code complexities, code smells, code standards and security issues using SonarQube"
+              ]
+            },
+            {
               "name": "Citizens Bank - CLAAS Project",
               "technologies": [
                 "Angular",
@@ -141,7 +156,7 @@
                 "Git"
               ],
               "responsibilities": [
-                "Played a pivotal role in designing, developing and debugging web application, delivering an engaging user-friendly interfaces",
+                "Insta award for playing a pivotal role in designing, developing and debugging web application, delivering an engaging user-friendly interfaces",
                 "Deployed the code architecture to AWS cloud platform for seamless and efficient workflow"
               ]
             }
@@ -149,7 +164,7 @@
           "description": [
             "Developed scalable, modular code following best practices, leading to reduction in build time through optimized code performance.  ",
             "Consistently implemented performance tuning techniques, resulting in faster application load times and improved user experience across all supported platforms.",
-            "Demonstrated the expertise in providing AI based solutions and overall application design to larger audience in the internal events "
+            "Mentored the expertise in providing AI based solutions and overall application design to larger audience in the internal events "
           ],
           "showDescription": true
         }
@@ -210,7 +225,7 @@
     {
       "name": "Stack Overflow Clone",
       "technologies": ["Angular", "HTML", "CSS", "TypeScript"],
-      "desc": "Developed a Stack Overflow clone enabling users to post questions and receive answers or feedback from the community. The project fosters knowledge sharing and collaboration by replicating a familiar Q&A platform.",
+      "desc": "Created a Stack Overflow clone for users to post questions and get answers, promoting knowledge sharing and collaboration.",
 
       "isHidden": false
     },
@@ -230,7 +245,7 @@
     {
       "name": "AmIshi - Portfolio",
       "technologies": ["Angular", "ThreeJS", "TypeScript", "CSS3", "HTML5"],
-      "desc": "Built a personal portfolio using generative AI, exploring advanced features like smooth navigation, responsive design, and interactive 3D animations.",
+      "desc": "Created a personal portfolio using GenAI, featuring smooth navigation, responsive design, and interactive 3D animations.",
       "link": "https://am-ishi.netlify.app/",
       "isHidden": false
     }
@@ -257,18 +272,18 @@
     ],
     "skills": [
       {
-        "rating": 5,
+        "rating": 4,
         "technologies": ["React", "JavaScript", "Angular", "CSS", "HTML"],
         "info": "Excellent"
       },
       {
-        "rating": 4,
-        "technologies": ["Express", "Git", "version1", "ThreeJS", "TypeScript"],
+        "rating": 3.5,
+        "technologies": ["Git", "GitLab", "ThreeJS", "TypeScript"],
         "info": "Very Good"
       },
       {
         "rating": 3,
-        "technologies": ["NodeJS", "MongoDB", "SQL", "Jenkins"],
+        "technologies": ["GenAI", "AWS", "SonarQube", "Jenkins"],
         "info": "Good"
       }
     ],
