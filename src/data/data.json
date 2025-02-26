@@ -6,7 +6,7 @@
       "startDate": "Jul 21, 2022",
       "replacer": "{{experience}}"
     },
-    "bio": "Software Engineer with {{experience}} of experience specializing in React, Angular, HTML, CSS, TypeScript, JavaScript and GenAI. Proficient in delivering efficient, high-quality solutions with a focus on modularity and scalability. Known for performance excellence and innovation, with  a commitment to creating impactful user experiences.",
+    "bio": "Passionate Software Engineer with {{experience}} of experience in React, Angular, and Micro Frontend (MFE) architecture crafting scalable, high-performance applications. Exploring GenAI, Agentic AI, and emerging technologies to stay ahead in the ever-evolving tech landscape. Committed to creating seamless, impactful user experiences.",
     "isBioVisible": true,
     "contact": [
       {
@@ -141,9 +141,8 @@
                 "BitBucket"
               ],
               "responsibilities": [
-                "Built and optimized a user-friendly web application within an agile environment, focusing on seamless user engagement and functionality.",
-                "Ensured robust code quality by addressing complexities and security vulnerabilities through SonarQube and Jenkins.",
-                "Partnered with clients to translate design mockups into fully functional web components, utilizing Bitbucket for streamlined code management."
+                "Developed and optimized a user-friendly web application in an agile environment, ensuring seamless functionality and engagement while maintaining robust code quality with SonarQube and Jenkins.",
+                "Collaborated with clients to transform design mockups into interactive web components, leveraging Bitbucket for efficient code management."
               ]
             },
             {
@@ -156,8 +155,8 @@
                 "Git"
               ],
               "responsibilities": [
-                "Insta award for playing a pivotal role in designing, developing and debugging web application, delivering an engaging user-friendly interfaces",
-                "Deployed the code architecture to AWS cloud platform for seamless and efficient workflow"
+                "Recognized for designing, developing, and debugging a web application with an engaging, user-friendly interface.",
+                "Deployed a scalable code architecture on AWS for seamless workflow efficiency"
               ]
             }
           ],
@@ -261,13 +260,11 @@
         "name": "Business Communication Level 6"
       },
       {
-        "name": "Infosys Certified Front End Web Developer"
+        "name": "Infosys Certified Angular & React Web Developer | MicroFrontend Essentials | Generative AI Professional"
       },
       {
-        "name": "Infosys Certified Angular & React Web Developer & MicroFrontend Essentials"
-      },
-      {
-        "name": "Infosys Certified Generative AI Professional"
+        "name": "Build Agentic AI Models",
+        "link": "https://partner.cloudskillsboost.google/public_profiles/3395d1d9-914f-4233-8ecc-b21ea18eac6b"
       }
     ],
     "skills": [

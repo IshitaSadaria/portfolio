@@ -8,9 +8,9 @@ const Header = ({ data }) => {
   const [headerState] = useState(data);
 
   // fetch the current profile picture name [user can save more than one]
-  const headerImage = headerState.image?.showImage
-    ? require(`../../assets/images/${headerState.image.imageName}`)
-    : '';
+  // const headerImage = headerState.image?.showImage
+  //   ? require(`../../assets/images/${headerState.image.imageName}`)
+  //   : '';
 
   const getBio = (bio, experienceDates) => {
     return bio.replace(
@@ -30,11 +30,11 @@ const Header = ({ data }) => {
               { getBio(headerState.bio, headerState.overallExperience) }
             </div>)}
           </div>
-          {headerState.image?.showImage && (
+          {/* {headerState.image?.showImage && (
             <div className="image-wrapper">
               <img src={headerImage} alt={`profile of ${headerState.name}`} className="profile-picture" />
             </div>
-          )}
+          )} */}
         </div>
         
         <div className="all-links">
